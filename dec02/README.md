@@ -14,6 +14,8 @@ Since you can't be sure if the Elf is trying to help you or trick you, you shoul
 
 For example, suppose you were given the following strategy guide:
 
+|   |   | 
+|---|---|
 | A | Y |
 | B | X |
 | C | Z |
